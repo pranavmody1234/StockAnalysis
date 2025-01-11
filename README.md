@@ -24,7 +24,10 @@ This project provides a comprehensive Stock Market Dashboard created using Pytho
   - [`Nvidia.csv`](./Nvidia.csv)
   - [`Tesla.csv`](./Tesla.csv)
   - [`Twitter.csv`](./Twitter.csv)
-- **Tableau Dashboard Image**: (stock_market_image.jpeg) - Screenshot of the Tableau dashboard.
+- **Tableau Dashboard Image**: 
+![Dashboard](stock_market_image.jpeg)
+
+- Screenshot of the Tableau dashboard.
 
 ## Requirements
 
