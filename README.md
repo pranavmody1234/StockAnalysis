@@ -41,11 +41,3 @@ This project provides a comprehensive Stock Market Dashboard created using Pytho
 ### Tableau
 
 - Tableau Desktop or Tableau Public for visualizing the dashboard.
-
-## Installation
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/stock-market-dashboard.git
-   cd stock-market-dashboard
